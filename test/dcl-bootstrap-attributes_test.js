@@ -2,7 +2,7 @@
 
 var mixins = require('../lib/dcl-bootstrap-attributes');
 var D = require('dual');
-var Widget = require('dcl-widget');
+var Widget = D.Widget;
 
 /*
   ======== A Handy Little Nodeunit Reference ========

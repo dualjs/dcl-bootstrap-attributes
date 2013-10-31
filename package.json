@@ -1,7 +1,7 @@
 {
   "name": "dcl-bootstrap-attributes",
   "description": "Set of useful mixins for Twitter Bootstrap-based DCL components",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "homepage": "https://github.com/dualjs/dcl-bootstrap-attributes",
   "author": {
     "name": "Mark",
@@ -22,11 +22,9 @@
   ],
   "main": "lib/dcl-bootstrap-attributes.js",
   "dependencies": {
-    "dual": "*",
-    "dcl-widget": "*"
+    "dual": "*"
   },
   "devDependencies": {
-    "dcl-widget": "*",
     "grunt": "~0.4.1",
     "grunt-contrib-jshint": "~0.6.0",
     "grunt-contrib-nodeunit": "~0.2.0",
